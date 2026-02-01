@@ -1,7 +1,7 @@
 # restaurant-site<!DOCTYPE html>
 <html>
 <head>
-<title>AD General Store</title>
+<title>Sanvriya seth store</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 body{
@@ -38,7 +38,7 @@ button{
 <body>
 
 <header>
-<h1>AD General Store</h1>
+<h1>Sanvriya seth store</h1>
 <p>सब सामान एक ही जगह</p>
 </header>
 
